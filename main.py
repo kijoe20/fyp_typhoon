@@ -1,8 +1,4 @@
 #import libraries
-import geopandas as gpd
-import matplotlib.pyplot as plt
-from shapely.geometry import Polygon
-import cartopy.crs as ccrs
 import streamlit as st
 
 #set page config
